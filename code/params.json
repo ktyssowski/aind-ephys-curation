@@ -5,7 +5,7 @@
     },
     "curation": {
         "isi_violations_ratio_threshold": 0.5,
-        "presence_ratio_threshold": 0.8,
-        "amplitude_cutoff_threshold": 0.1
+        "presence_ratio_threshold": 0.5,
+        "amplitude_cutoff_threshold": 0.05
     }
 }
